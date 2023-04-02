@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John in 't Hout</h1>
 <h3 align="center">Senior software engineer from the netherlands and owner Fastvoid</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johninthout" alt="johninthout" /></a> </p>
-
 - 🔭 I’m currently working on [Accell Group](https://www.accell-group.com/nl)
 
 - 🌱 I’m currently learning **Kubernetes Developer certification**
